@@ -1,10 +1,9 @@
 # tly-url-shortener-api
 
-Python SDK for the [T.LY URL Shortener API](https://api.t.ly), generated from the provided Postman collection.
+Python SDK for the [T.LY URL Shortener API](https://t.ly).
 
 ## Features
 
-- Complete coverage of the endpoints in `collection.json` (29 methods).
 - Typed Python client with sensible defaults.
 - Built-in bearer auth handling.
 - Binary or JSON responses for QR endpoints.
